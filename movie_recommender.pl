@@ -2,7 +2,7 @@
  
 /*     Prolog Expert System - Movie Recommender     */
 
-/*     By Fatimah Mohammed     */
+/*     By Fatimah   */
 
 /*     TO GET STARTED you just have to write (start.)     */
 
