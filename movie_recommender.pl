@@ -2,7 +2,7 @@
  
 /*     Prolog Expert System - Movie Recommender     */
 
-/*     By Fatimah Mohammed AL Darwish - 2250005047     */
+/*     By Fatimah Mohammed     */
 
 /*     TO GET STARTED you just have to write (start.)     */
 
